@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+langchain
+openai
+tiktoken
+faiss-cpu
+pytesseract
+chromadb
+pypdf
+streamlit_chat
